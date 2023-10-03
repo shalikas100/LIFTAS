@@ -1,0 +1,8 @@
+.main{
+  display: flex;
+  flex-direction: column;
+  flex-direction: column-reverse;
+}
+.mygtukas{
+  margin-bottom: 1rem;
+}

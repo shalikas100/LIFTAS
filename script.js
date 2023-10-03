@@ -73,5 +73,6 @@ generuoti.addEventListener('click', ()=>{
 //   });
 // });
 
+// cia yra kazkoks pakeitimas...
 
 

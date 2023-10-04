@@ -1,3 +1,4 @@
+console.log('PAKEITIMAS');
 
 const input = document.getElementById('input');
 const generuoti = document.getElementById('generate');
